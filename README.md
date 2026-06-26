@@ -1,1 +1,1 @@
-# johns-ai
+# john-ai
